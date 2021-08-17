@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=WizHelper
+Comment=WizHelper For Linux
+Exec=wizhelper
+Icon=/usr/local/src/ic_launcher.png
+Terminal=false
+Type=Application
+StartupNotify=false
+#StartupWMClass=x11vnc_port_prompt
+Categories=Network;RemoteAccess;

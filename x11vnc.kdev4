@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCustomMakeManager
+Name=x11vnc

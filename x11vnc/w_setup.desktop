@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Setup
+Exec=bash -c "export PATH=$PATH:`dirname %k`; setup_wizhelper.run"
+Terminal=false
+Type=Application
